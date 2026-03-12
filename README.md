@@ -1,4 +1,4 @@
-Personalized E-Learning Recommendation System
+**Personalized E-Learning Recommendation System**
 Project Overview
 
 Online learning platforms provide thousands of courses, making it difficult for students to choose the right one. This project builds a Personalized E-Learning Recommendation System that suggests relevant courses based on course content and similarity. The system analyzes course features and recommends similar courses to help learners find suitable learning paths.
